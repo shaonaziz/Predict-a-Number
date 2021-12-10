@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@200&family=Mochiy+Pop+P+One&family=Montserrat:ital@0;1&family=Oswald:wght@200&family=Readex+Pro:wght@500&family=Roboto&family=Zen+Antique&display=swap");
+
+body {
+  background-color: #30343a;
+  
+}
+.info h1 {
+  font-family: "Passion One", cursive;
+  color: rgb(201, 201, 107);
+}
+.info p {
+    color: #d9e5ff;
+  font-family: "Tangerine", cursive;
+}
+
+.number {
+  color: #acff28;
+  font-family: "Passion One", cursive;
+  font-size: 2rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
+  background-color: rgb(9, 9, 80);
+  border-radius: 3rem 3rem 3rem 3rem;
+}
+input {
+  padding: 1rem 1rem;
+  margin-bottom: 12px;
+  border-color: rgb(253, 251, 253);
+  border-width: 2px;
+  border-style:ridge;
+  width: 100%;
+  color: blueviolet;
+  font-family: "Passion One", cursive;
+  font-size: 3rem;
+  background-color: #d9e5ff;
+}
+.detail{
+    font-family: "Passion One", cursive;
+    color: #d8e7fa;
+}
+.detail p{
+    margin-top: 2rem;
+}
+
+.again{
+margin-left: 8rem;
+margin-bottom: 12px;
+}
+.replay{
+  font-family: "Passion One", cursive;
+  color: rgb(240, 238, 125);
+}
+.footer{
+  color: #60f3e7;
+}
